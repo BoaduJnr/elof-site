@@ -1,25 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
+import Nav from './Components/Nav'
+import { Outlet } from 'react-router-dom'
+import image from "./Images/Ellof_background1.jpg"
+
+
+
+
+const App = () =>{
+  const year = document.getElementById("year")
+  const d = new Date();
+   year.innerText = d.getFullYear();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container" style={{ backgroundImage:`url(${image})`}} >
+      <Nav/>
+     <Outlet/>
+     <p id='copyright'>Copyright &copy;<span id='year'></span><br></br>
+     <span>+233542352886</span>
+     </p>
+
     </div>
-  );
+  )
 }
 
 export default App;
