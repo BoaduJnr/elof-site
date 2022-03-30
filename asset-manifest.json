@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/elof-site/static/css/main.b79b555a.css",
-    "main.js": "/elof-site/static/js/main.2394b656.js",
+    "main.js": "/elof-site/static/js/main.55d24eda.js",
     "static/js/787.a2b9fa3d.chunk.js": "/elof-site/static/js/787.a2b9fa3d.chunk.js",
     "static/media/photo_2022-03-27_16-04-21.jpg": "/elof-site/static/media/photo_2022-03-27_16-04-21.d3b243ef0595eba4789b.jpg",
     "static/media/photo_2022-03-27_16-04-44.jpg": "/elof-site/static/media/photo_2022-03-27_16-04-44.2e501b42be277433f2cc.jpg",
@@ -17,11 +17,11 @@
     "static/media/Ellof_background1.jpg": "/elof-site/static/media/Ellof_background1.fed5c118efc550a3681b.jpg",
     "index.html": "/elof-site/index.html",
     "main.b79b555a.css.map": "/elof-site/static/css/main.b79b555a.css.map",
-    "main.2394b656.js.map": "/elof-site/static/js/main.2394b656.js.map",
+    "main.55d24eda.js.map": "/elof-site/static/js/main.55d24eda.js.map",
     "787.a2b9fa3d.chunk.js.map": "/elof-site/static/js/787.a2b9fa3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b79b555a.css",
-    "static/js/main.2394b656.js"
+    "static/js/main.55d24eda.js"
   ]
 }
