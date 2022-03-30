@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/elof-site/static/css/main.b79b555a.css",
+    "main.js": "/elof-site/static/js/main.2394b656.js",
+    "static/js/787.a2b9fa3d.chunk.js": "/elof-site/static/js/787.a2b9fa3d.chunk.js",
+    "static/media/photo_2022-03-27_16-04-21.jpg": "/elof-site/static/media/photo_2022-03-27_16-04-21.d3b243ef0595eba4789b.jpg",
+    "static/media/photo_2022-03-27_16-04-44.jpg": "/elof-site/static/media/photo_2022-03-27_16-04-44.2e501b42be277433f2cc.jpg",
+    "static/media/photo_2022-03-27_16-03-46.jpg": "/elof-site/static/media/photo_2022-03-27_16-03-46.1ad314ab290dc119e7a1.jpg",
+    "static/media/photo_2022-03-27_16-04-29.jpg": "/elof-site/static/media/photo_2022-03-27_16-04-29.27f5d8be0ef2e01a4302.jpg",
+    "static/media/photo_2022-03-27_16-04-25.jpg": "/elof-site/static/media/photo_2022-03-27_16-04-25.f6c29f288fc9a485c340.jpg",
+    "static/media/photo_2022-03-27_16-04-40.jpg": "/elof-site/static/media/photo_2022-03-27_16-04-40.467b763cec2c738d9e9b.jpg",
+    "static/media/photo_2022-03-27_16-04-18.jpg": "/elof-site/static/media/photo_2022-03-27_16-04-18.c66a41bf5ca50fdf74dc.jpg",
+    "static/media/photo_2022-03-27_16-04-47.jpg": "/elof-site/static/media/photo_2022-03-27_16-04-47.fb460430c7aed75f8139.jpg",
+    "static/media/photo_2022-03-27_16-04-32.jpg": "/elof-site/static/media/photo_2022-03-27_16-04-32.82c17ffc10e037dadb08.jpg",
+    "static/media/photo_2022-03-27_16-04-14.jpg": "/elof-site/static/media/photo_2022-03-27_16-04-14.00200b8d28012d0cd7f9.jpg",
+    "static/media/photo_2022-03-27_16-04-08.jpg": "/elof-site/static/media/photo_2022-03-27_16-04-08.868cb45da64bc57a0a22.jpg",
+    "static/media/Ellof_background1.jpg": "/elof-site/static/media/Ellof_background1.fed5c118efc550a3681b.jpg",
+    "index.html": "/elof-site/index.html",
+    "main.b79b555a.css.map": "/elof-site/static/css/main.b79b555a.css.map",
+    "main.2394b656.js.map": "/elof-site/static/js/main.2394b656.js.map",
+    "787.a2b9fa3d.chunk.js.map": "/elof-site/static/js/787.a2b9fa3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b79b555a.css",
+    "static/js/main.2394b656.js"
+  ]
+}
